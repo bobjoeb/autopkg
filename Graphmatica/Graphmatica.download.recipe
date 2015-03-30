@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest version of Graphmatica from graphmatica.com.</string>
     <key>Identifier</key>
-    <string>com.github.bobjoeb.autopkg.Graphmatica.download</string>
+    <string>com.github.bobjoeb.autopkg.graphmatica.Graphmatica.download</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
