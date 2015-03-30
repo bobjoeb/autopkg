@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest version of Graphmatica from graphmatica.com.</string>
     <key>Identifier</key>
-    <string>com.github.bobjoeb.autopkg.graphmatica.download</string>
+    <string>com.github.bobjoeb.autopkg.Graphmatica.download</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -16,7 +16,7 @@
         <string>(?P&lt;url&gt;http://www.graphmatica.com/mac/Graphmatica.*?.dmg)</string>
     </dict>
     <key>MinimumVersion</key>
-    <string>0.2.8</string>
+    <string>0.2.4</string>
     <key>Process</key>
     <array>
         <dict>

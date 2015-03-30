@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Download the latest version of Graphmatica and imports it into Munki.</string>
         <key>Identifier</key>
-        <string>com.github.bobjoeb.autopkg.munki.Graphmatica</string>
+        <string>com.github.bobjoeb.autopkg.Graphmatica.munki</string>
         <key>Input</key>
         <dict>
             <key>MUNKI_REPO_SUBDIR</key>
@@ -38,7 +38,7 @@
         <key>MinimumVersion</key>
         <string>0.2.4</string>
         <key>ParentRecipe</key>
-        <string>com.github.bobjoeb.autopkg.download.LyX</string>
+        <string>com.github.bobjoeb.autopkg.download.Graphmatica</string>
         <key>Process</key>
         <array>
             <dict>
