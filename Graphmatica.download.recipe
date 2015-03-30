@@ -11,9 +11,9 @@
         <key>NAME</key>
         <string>Graphmatica</string>
         <key>SEARCH_URL</key>
-        <string>http://www.graphmatica.com/mac/</string>
+        <string>http://www.graphmatica.com/index.html?/about.html</string>
         <key>SEARCH_PATTERN</key>
-        <string>(?P&lt;url&gt;http://www.graphmatica.com/mac/Graphmatica.*?dmg)</string>
+        <string>(?P&lt;url&gt;http://www.graphmatica.com/mac/Graphmatica.*?.dmg)</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.8</string>
