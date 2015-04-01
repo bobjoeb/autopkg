@@ -13,7 +13,7 @@
         <key>SEARCH_URL</key>
         <string>http://www.pasco.com/support/downloads/pasco-capstone-update.cfm</string>
         <key>SEARCH_PATTERN</key>
-        <string>(?P&lt;url&gt;http://www.pasco.com/file_downloads/pasco_capstone/.*?/PASCO_Capstone_MacSetup.dmg)</string>
+        <string>(?Phttp://www.pasco.com/file_downloads/pasco_capstone/.*?/PASCO_Capstone_MacSetup.dmg)</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.4</string>
